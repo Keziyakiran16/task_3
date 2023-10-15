@@ -1,0 +1,2 @@
+This is a sample text file. This file contains words and it will be used to demonstrate word counting.
+
